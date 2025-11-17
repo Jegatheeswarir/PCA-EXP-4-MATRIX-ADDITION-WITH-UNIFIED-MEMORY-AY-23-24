@@ -2,7 +2,7 @@
 
 ## NAME: JEGATHEESWARI R
 ## REGISTER No: 212223230092
-## DATE:
+## DATE:17/10/2025
 <h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
   Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.</h3>
 
